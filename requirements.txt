@@ -1,0 +1,13 @@
+
+streamlit
+google-genai
+pypdf
+python-docx
+python-pptx
+openpyxl
+pandas
+striprtf
+pymupdf
+Pillow
+pytesseract
+xlrd
